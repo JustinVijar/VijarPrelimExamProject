@@ -7,5 +7,5 @@
   <b>P.S.</b><br>
   There are times that if you match a tile, some of the tiles will be also changed.<br>
   The reason behind it is because when randomized, it coincidentally matches the other<br>
-  its just that there is no graphics to indicate to it.
+  its just that there is no graphics to indicate it.
 </p>
